@@ -7,7 +7,7 @@ You can always access and make your edits by suggesting a new version of the son
 
 ## Sanya & Olena Casino - Morning inspiration
 
-![listen now](Morning inspiration v1.0.m4a)
+![listen now](https://github.com/Treedo/Morning-inspiration/blob/main/Morning%20inspiration%20v1.0.m4a)
 
 ![Screenshot](logo.jpeg)
 
