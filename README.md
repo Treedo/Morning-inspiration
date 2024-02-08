@@ -8,7 +8,7 @@ You can always access and make your edits by suggesting a new version of the son
 ## Sanya & Olena Casino - Morning inspiration
 
 > [!NOTE]
-> ![](Morning inspiration v1.0.m4a)
+> ![listen now](Morning inspiration v1.0.m4a)
 
 ![Screenshot](logo.jpeg)
 
