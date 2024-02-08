@@ -1,11 +1,14 @@
-# Morning-inspiration
+# :guitar: :sparkles: Morning-inspiration :sparkles: :musical_keyboard:	
 
-Free Public Generation Music!
+## :musical_note: Free Public Generation Music! :radio:
 
 This music and its resources are always free.
 You can always access and make your edits by suggesting a new version of the song, as well as create a new branch, then gradually develop the music by making commits.
 
-Sanya & Olena Casino - Morning inspiration
+## Sanya & Olena Casino - Morning inspiration
+
+> [!NOTE]
+> ![](Morning inspiration v1.0.m4a)
 
 ![Screenshot](logo.jpeg)
 
